@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 360px;
+    background-image: url(https://learn.logikaschool.com/uploads/student/2899051/67a8857b08ff2.png);
+}
+
+.menu-items {
+    display:flex;
+
+}
+
+.TITLE {
+
+
+}
+
+.info-div{
+  display: flex;
+}
+
+.ch {
+    size: 50px;
+}
+
+.sale-div img {
+    width: 100px;
+}
